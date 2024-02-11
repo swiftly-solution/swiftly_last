@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/swiftly-solution/swiftly_last">
-    <img src="cdn.swiftlycs2.net/swiftly-logo.png" alt="Swiftly Logo" width="80" height="80">
+    <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="Swiftly Logo" width="80" height="80">
   </a>
 
   <h3 align="center">[Swiftly] Last</h3>
