@@ -59,17 +59,17 @@ end
 commands:Register("last", listLastDisconnectedPlayers)
 
 function GetPluginAuthor()
-    return "moongetsu"
+    return "Swiftly Solution"
 end
 
 function GetPluginVersion()
-    return "1.0.0"
+    return "v1.0.0"
 end
 
 function GetPluginName()
-    return "[Swiftly LUA] Last"
+    return "Swiftly Last"
 end
 
 function GetPluginWebsite()
-    return "https://github.com/moon"
+    return "https://github.com/swiftly-solution/swiftly_last"
 end
